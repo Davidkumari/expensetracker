@@ -1,0 +1,20 @@
+body {
+  background-color: #f6eec9;
+  color: orange;
+}
+.blockdisplay {
+  display: block;
+  background-color: #a1dd70;
+  margin: 10px 0;
+  padding: 10px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #799351;
+  padding: 8px;
+  text-align: left;
+}
